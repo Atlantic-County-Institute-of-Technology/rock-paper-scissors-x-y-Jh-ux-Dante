@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    height: 250px;
+    width: 900px;
+    background-color: white;
+    margin:0% auto;
+    position: relative;
+    top: 450px;
+}
+
+.button1{
+    height: 225px;
+    width: 225px;
+    background-color: skyblue;
+    border-radius: 50%;
+    position: relative;
+    margin: 0% auto;
+    top: 210px;
+    left: 280px;
+}
+
+.button2{
+    height: 225px;
+    width: 225px;
+    background-color: lightgreen;
+    border-radius: 50%;
+    position: relative;
+    margin: 0% auto;
+    bottom: 15px;
+}
+
+.button3{
+    height: 225px;
+    width: 225px;
+    background-color: lightcoral;
+    border-radius: 50%;
+    position: relative;
+    margin: 0% auto;
+    bottom: 240px;
+    right: 275px;
+}
