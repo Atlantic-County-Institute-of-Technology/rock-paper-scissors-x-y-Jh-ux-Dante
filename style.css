@@ -2,13 +2,13 @@ body{
     background-color: lightblue;
 }
 
-.container{
+.rectangle{
     height: 250px;
     width: 900px;
-    background-color: white;
+    background-color: beige;
     margin:0% auto;
     position: relative;
-    top: 450px;
+    top: 725px;
 }
 
 .button1{
@@ -18,8 +18,11 @@ body{
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
-    top: 210px;
+    top: 490px;
     left: 280px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .button2{
@@ -29,7 +32,10 @@ body{
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
-    bottom: 15px;
+    top: 260px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .button3{
@@ -39,6 +45,18 @@ body{
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
-    bottom: 240px;
+    top: 40px;
     right: 275px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.square{
+    height: 500px;
+    width: 900px;
+    background-color: beige;
+    position: relative;
+    margin:0% auto;
+    bottom: 700px;
 }
