@@ -60,3 +60,9 @@ body{
     margin:0% auto;
     bottom: 700px;
 }
+
+.square2{
+    height: 600px;
+    width: 900px;
+    background-color: beige;
+}
