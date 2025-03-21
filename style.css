@@ -2,15 +2,6 @@ body{
     background-color: lightblue;
 }
 
-.rectangle{
-    height: 250px;
-    width: 900px;
-    background-color: beige;
-    margin:0% auto;
-    position: relative;
-    top: 725px;
-}
-
 .button1{
     height: 225px;
     width: 225px;
@@ -52,17 +43,70 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-.square{
-    height: 500px;
-    width: 900px;
-    background-color: beige;
+.scoreboard{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 75px;
+    width: 255px;
     position: relative;
-    margin:0% auto;
-    bottom: 700px;
+    margin:auto;
+    bottom: 600px;
+    font-display: white;
+    font-weight: 700;
 }
 
-.square2{
-    height: 600px;
-    width: 900px;
-    background-color: beige;
+.winslosses{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 75px;
+    width: 255px;
+    position: relative;
+    margin:auto;
+    bottom: 600px;
+    font-display: white;
+    font-weight: 700;
+}
+
+.player{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 75px;
+    width: 255px;
+    position: relative;
+    margin:auto;
+    bottom: 675px;
+    font-display: white;
+    font-weight: 700;
+    right: 275px;
+}
+
+.computer{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 75px;
+    width: 255px;
+    position: relative;
+    margin:auto;
+    bottom: 750px;
+    font-display: white;
+    font-weight: 700;
+    left: 275px;
+}
+
+.options{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 75px;
+    width: 255px;
+    position: relative;
+    margin:auto;
+    bottom: 950px;
+    font-display: white;
+    font-weight: 700;
+    right: 590px;
 }
