@@ -3,70 +3,70 @@ body{
 }
 
 .button1{
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     background-color: skyblue;
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
     top: 490px;
-    left: 10px;
+    left: 75px;
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .button2{
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     background-color: lightgreen;
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
     top: 480px;
-    left: 30px;
+    left: 150px;
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .button3{
-    height:250px;
-    width: 250px;
-    background-color: lightcoral;
+    height: 300px;
+    width: 300px;
+    background-color:lightcoral;
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
     top: 480px;
-    left: 35px;
+    left: 250px;
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .button4{
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     background-color: brown;
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
     top: 480px;
-    left: 40px;
+    left: 350px;
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .button5{
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     background-color: pink;
     border-radius: 50%;
     position: relative;
     margin: 0% auto;
     top: 480px;
-    left: 40px;
+    left: 400px;
     text-align: center;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
@@ -95,4 +95,43 @@ body{
 .button5:hover{
     background-color: silver;
     color: white;
+}
+
+.scoreboard{
+    height: 100px;
+    width: 300px;
+    position: relative;
+    margin: 0% auto;
+    bottom: 100px;
+    left: 40px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.options{
+    height: 100px;
+    width: 300px;
+    position: relative;
+    margin: 0% auto;
+    bottom: 430px;
+    right: 900px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.winslosses{
+   
+}
+
+.button6{
+    height: 100px;
+    width: 225px;
+    position: relative;
+    margin: 0% auto;
+    bottom: 490px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
